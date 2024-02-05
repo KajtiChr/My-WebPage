@@ -1,0 +1,1 @@
+To start app you need npm run dev
